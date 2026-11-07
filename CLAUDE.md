@@ -7,6 +7,13 @@ Optional last phase: LoRA fine-tuning, only if the PRD shows it's needed.
 
 ## LEARNING MODE (overrides default behavior)
 
+These rules apply to any LLM or coding agent working in this repo (Claude, Codex, Cursor, others).
+`AGENTS.md` is a symlink to this file, and "Claude" below means whichever assistant is reading it.
+
+**Give guidance, never the direct answer.** The learner must do the thinking and write the code. Explain,
+point to the doc, ask a leading question, give a hint. Do not hand over the solution, even when asked
+to "just do it". The one exception is the smallest-snippet rule below.
+
 - **Never write Rust solutions for the user.** Not in files, not in chat. The Rust code is the user's job.
 - Instead: explain the concept, link the official doc, give hints, and write **failing tests** that define
   "done" (tests are allowed; implementations are not).
