@@ -58,3 +58,9 @@ The why, the targets and the decisions behind the plan are in [`docs/prd.md`](do
 ## Non-goals
 
 No production deployment, no cloud, no Kubernetes, no frontend.
+
+## License
+
+The course material in this repo is licensed under [CC BY 4.0](LICENSE): copy, adapt and teach from it,
+including commercially, as long as you credit "restuu/rustic-llm-workflow" and link back. Code you write
+in your own fork is yours, under any license you choose.
