@@ -1,0 +1,68 @@
+{
+  "CLAUDE.md": {
+    "mtime": 1794026321.0312402,
+    "seen": 1794026322.348738,
+    "ast_hash": "8d0d1a6453d020bde75056eefb0a37e4",
+    "semantic_hash": ""
+  },
+  "docs/phases/00-env-setup.md": {
+    "mtime": 1794024919.490744,
+    "seen": 1794026304.15931,
+    "ast_hash": "0823bfdce085b0cc1d286c5517a8820b",
+    "semantic_hash": "0823bfdce085b0cc1d286c5517a8820b"
+  },
+  "docs/phases/01-rust-basics-cli.md": {
+    "mtime": 1793947217.7717204,
+    "seen": 1794026304.159311,
+    "ast_hash": "ce609442cde5ccfccde3a54c08732683",
+    "semantic_hash": "ce609442cde5ccfccde3a54c08732683"
+  },
+  "docs/phases/02-ollama-client.md": {
+    "mtime": 1793947219.345062,
+    "seen": 1794026304.1593118,
+    "ast_hash": "573cab21b35537c36709c7fa11b3a44f",
+    "semantic_hash": "573cab21b35537c36709c7fa11b3a44f"
+  },
+  "docs/phases/03-axum-service.md": {
+    "mtime": 1793947243.5077164,
+    "seen": 1794026304.159313,
+    "ast_hash": "496011d95bb677b3e410e640cb31f43b",
+    "semantic_hash": "496011d95bb677b3e410e640cb31f43b"
+  },
+  "docs/phases/04-ingest-qdrant.md": {
+    "mtime": 1793947244.9111474,
+    "seen": 1794026304.159314,
+    "ast_hash": "261e9feedba6586c335df490253b7991",
+    "semantic_hash": "261e9feedba6586c335df490253b7991"
+  },
+  "docs/phases/05-rag-ask-eval.md": {
+    "mtime": 1793947264.9170754,
+    "seen": 1794026304.1593149,
+    "ast_hash": "15bca58e7aef3a880152718d50c6df9b",
+    "semantic_hash": "15bca58e7aef3a880152718d50c6df9b"
+  },
+  "docs/phases/06-n8n-workflow.md": {
+    "mtime": 1793947286.6092594,
+    "seen": 1794026304.159316,
+    "ast_hash": "720c37ae257e2567ea127f6307e1f52a",
+    "semantic_hash": "720c37ae257e2567ea127f6307e1f52a"
+  },
+  "docs/phases/07-dify-workflow.md": {
+    "mtime": 1793947296.2762642,
+    "seen": 1794026304.159316,
+    "ast_hash": "500d4ff533a911934bbc079ed92801fc",
+    "semantic_hash": "500d4ff533a911934bbc079ed92801fc"
+  },
+  "docs/phases/08-optional-lora-finetune.md": {
+    "mtime": 1793947287.9779503,
+    "seen": 1794026304.159317,
+    "ast_hash": "729c5e18e0b8c03791db07a6758c4650",
+    "semantic_hash": "729c5e18e0b8c03791db07a6758c4650"
+  },
+  "docs/prd.md": {
+    "mtime": 1794024928.5736551,
+    "seen": 1794026304.159318,
+    "ast_hash": "342209846443f20c13b1a27384e31374",
+    "semantic_hash": "342209846443f20c13b1a27384e31374"
+  }
+}

@@ -1,0 +1,35 @@
+# Rust
+/target/
+**/target/
+**/*.rs.bk
+*.pdb
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Docker volumes (bind-mounted data for qdrant, n8n, dify, ollama)
+infra/volumes/
+infra/data/
+*.volume/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Local session history from the remember plugin
+.remember/
+
+# Cloned corpora and Dify checkout
+data/
+infra/dify/
+
+# Python venv for the optional fine-tune phase
+.venv/
+
+# graphify: local-only state (absolute paths, cache)
+graphify-out/cache/
+graphify-out/.graphify_python
+graphify-out/.graphify_root
